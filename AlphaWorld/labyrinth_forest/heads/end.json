@@ -1,0 +1,144 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "item",
+          "name": "minecraft:skull",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "enchant_randomly",
+              "enchantments": [
+                "vanishing_curse"
+              ]
+            },
+			{
+              "function": "enchant_randomly",
+              "enchantments": [
+                "binding_curse"
+              ]
+            },
+            {
+              "function": "set_data",
+              "data": 3
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"End Stone\"},SkullOwner:{Id:\"88ad360e-72bc-48a5-9ad1-8acdc717cda7\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTlmMjFmNWQ4ODMzMTZmZDY1YTkzNjZmMzJhMzMwMTMxODJlMzM4MWRlYzIxYzE3Yzc4MzU1ZDliZjRmMCJ9fX0=\"}]}}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:skull",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "enchant_randomly",
+              "enchantments": [
+                "vanishing_curse"
+              ]
+            },
+			{
+              "function": "enchant_randomly",
+              "enchantments": [
+                "binding_curse"
+              ]
+            },
+            {
+              "function": "set_data",
+              "data": 3
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"End Bricks\"},SkullOwner:{Id:\"c6aceffb-2233-4e4b-9eee-3ae46eb1a5b5\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjZkZTY1ZDE4OTY4MTI2ODExMDViYjNjMDE3ZmIzYWNkM2Y0ZGQ2M2IxM2IxOGRhMTRkNTliZTk4NGE2M2Q3In19fQ==\"}]}}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:skull",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "enchant_randomly",
+              "enchantments": [
+                "vanishing_curse"
+              ]
+            },
+			{
+              "function": "enchant_randomly",
+              "enchantments": [
+                "binding_curse"
+              ]
+            },
+            {
+              "function": "set_data",
+              "data": 3
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"Purpur Block\"},SkullOwner:{Id:\"f3016747-8a7a-423d-924c-c12c12f246d9\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzA4ZjM4MzJiYzE1ZmFjNDE1MjJjZTZlZDFkODhmOTU0M2RkNTcxZjkzNDA3Mzg3NGVmMGNiOWJmY2NlYSJ9fX0=\"}]}}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:skull",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "enchant_randomly",
+              "enchantments": [
+                "vanishing_curse"
+              ]
+            },
+			{
+              "function": "enchant_randomly",
+              "enchantments": [
+                "binding_curse"
+              ]
+            },
+            {
+              "function": "set_data",
+              "data": 3
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"Purpur \"},SkullOwner:{Id:\"19697e43-2742-42d7-b531-15e806b3132c\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjJlMzZhNTUyYjVmY2JjZWM3ZGQxOTNlZDEwZmU2ZmFiOWY2MmQxYjdjNzg5YmZlZGU2NjYyNmE5ZmNiNDE0In19fQ==\"}]}}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:skull",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "enchant_randomly",
+              "enchantments": [
+                "vanishing_curse"
+              ]
+            },
+			{
+              "function": "enchant_randomly",
+              "enchantments": [
+                "binding_curse"
+              ]
+            },
+            {
+              "function": "set_data",
+              "data": 3
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"Purpur Pillar\"},SkullOwner:{Id:\"0914e150-8b29-4bdb-8008-3f0a6ffda1e4\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTQ1MjQ5OGJkOWJhNTFhMTQyNGQ5NmJmOTZiZTBjYjEwM2M5MzM4ZGVmZGYxNzJjYTEzZjVlMjRmNWY5ZDhmIn19fQ==\"}]}}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

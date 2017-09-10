@@ -1,0 +1,36 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "name": "Labyrinth_Forest:heads/slime",
+          "weight": 1,      
+		  "conditions": [  
+				{  
+                    "condition": "random_chance", 
+                    "chance": 0.4 
+                }
+                    ]
+		}
+				]
+    },
+	{
+      "rolls": 1,
+      "entries": [
+		{
+          "type": "loot_table",
+          "name": "Labyrinth_Forest:heads/slime",
+          "weight": 1,     
+		  "conditions": [  
+				{  
+                    "condition": "random_chance", 
+                    "chance": 0.3 
+                }
+                    ]
+		}   
+				]		
+    }
+           ]
+}

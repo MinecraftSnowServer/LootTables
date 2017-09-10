@@ -1,0 +1,441 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "item",
+          "name": "minecraft:skull",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "enchant_randomly",
+              "enchantments": [
+                "vanishing_curse"
+              ]
+            },
+			{
+              "function": "enchant_randomly",
+              "enchantments": [
+                "binding_curse"
+              ]
+            },
+            {
+              "function": "set_data",
+              "data": 3
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"White Wool\"},SkullOwner:{Id:\"9c98db90-85c0-4ef7-8cd7-793091dbc136\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvM2ZhZjRjMjlmMWU3NDA1ZjQ2ODBjNWMyYjAzZWY5Mzg0ZjFhZWNmZTI5ODZhZDUwMTM4YzYwNWZlZmZmMmYxNSJ9fX0=\"}]}}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:skull",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "enchant_randomly",
+              "enchantments": [
+                "vanishing_curse"
+              ]
+            },
+			{
+              "function": "enchant_randomly",
+              "enchantments": [
+                "binding_curse"
+              ]
+            },
+            {
+              "function": "set_data",
+              "data": 3
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"Orange Wool\"},SkullOwner:{Id:\"aa2d1287-7fb9-4a35-8448-1acbacc1bb8b\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2JmNzc5N2EyNGE2YWY4NzVmNWM4MjcxYzViOGM0MjVlMTlmMzcyYTQxNWUwNTUyZmMyNDc3NjNmMjg1OWQxIn19fQ==\"}]}}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:skull",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "enchant_randomly",
+              "enchantments": [
+                "vanishing_curse"
+              ]
+            },
+			{
+              "function": "enchant_randomly",
+              "enchantments": [
+                "binding_curse"
+              ]
+            },
+            {
+              "function": "set_data",
+              "data": 3
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"Magenta Wool\"},SkullOwner:{Id:\"9cc84482-5e9b-46af-8c64-eae003206a8f\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYWJiNDM4NmJjZGE4NGUzNTNjMzFkNzc4ZDNiMTFiY2QyNmZlYTQ5NGRkNjM0OTZiOGE4MmM3Yzc4YTRhZCJ9fX0=\"}]}}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:skull",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "enchant_randomly",
+              "enchantments": [
+                "vanishing_curse"
+              ]
+            },
+			{
+              "function": "enchant_randomly",
+              "enchantments": [
+                "binding_curse"
+              ]
+            },
+            {
+              "function": "set_data",
+              "data": 3
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"Light Blue Wool\"},SkullOwner:{Id:\"d0a7287f-97fe-4aae-92fd-8b3ddcf22eff\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjFhZjQ2ZmViZDQ1YzBmNGQ4MWU4ZmExYjY2YjI3NWQ4OWUyNzJiMmFkNTVjOTc4NTUzYTk5YzczM2UxZmYifX19\"}]}}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:skull",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "enchant_randomly",
+              "enchantments": [
+                "vanishing_curse"
+              ]
+            },
+			{
+              "function": "enchant_randomly",
+              "enchantments": [
+                "binding_curse"
+              ]
+            },
+            {
+              "function": "set_data",
+              "data": 3
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"Yellow Wool\"},SkullOwner:{Id:\"164f9d3e-cdb6-414a-bfa0-a5c1729483b5\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjdiYmQwYjI5MTFjOTZiNWQ4N2IyZGY3NjY5MWE1MWI4YjEyYzZmZWZkNTIzMTQ2ZDhhYzVlZjFiOGVlIn19fQ==\"}]}}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:skull",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "enchant_randomly",
+              "enchantments": [
+                "vanishing_curse"
+              ]
+            },
+			{
+              "function": "enchant_randomly",
+              "enchantments": [
+                "binding_curse"
+              ]
+            },
+            {
+              "function": "set_data",
+              "data": 3
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"Lime Wool\"},SkullOwner:{Id:\"2607854d-07bb-4a1f-bd92-f43a52423450\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDY3NDcwYTBjMThmNjg1MWU5MTQzNTM3MTllNzk1ODc3ZDI5YjMyNTJmN2U2YmQ0YTFiODY1NzY1YmQ3NGZlYiJ9fX0=\"}]}}}"
+            }
+          ]
+        },
+		{
+          "type": "item",
+          "name": "minecraft:skull",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "enchant_randomly",
+              "enchantments": [
+                "vanishing_curse"
+              ]
+            },
+			{
+              "function": "enchant_randomly",
+              "enchantments": [
+                "binding_curse"
+              ]
+            },
+            {
+              "function": "set_data",
+              "data": 3
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"Pink Wool\"},SkullOwner:{Id:\"e18ea167-b6e0-420a-a5b4-e881c318af70\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNmJlY2ZiMzg3OTkzNmI4OTllNDIwYmZjZDNhNzRmOGExYmY5ZGQ1NGM1OGVjN2ZiOWY4MWQ5YTVkOTg4ZSJ9fX0=\"}]}}}"
+            }
+          ]
+        },
+		{
+          "type": "item",
+          "name": "minecraft:skull",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "enchant_randomly",
+              "enchantments": [
+                "vanishing_curse"
+              ]
+            },
+			{
+              "function": "enchant_randomly",
+              "enchantments": [
+                "binding_curse"
+              ]
+            },
+            {
+              "function": "set_data",
+              "data": 3
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"Gray Wool\"},SkullOwner:{Id:\"14774a24-c457-4bff-94eb-01ace70604a0\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTllNjkxN2YyZmI0ZWEwOGU3MTMyZGYzMDk2MWQyYjVjNTIzYWJiYTE5Y2U0M2Y4MzVmYzE0YzU2OGY0In19fQ==\"}]}}}"
+            }
+          ]
+        },
+		{
+          "type": "item",
+          "name": "minecraft:skull",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "enchant_randomly",
+              "enchantments": [
+                "vanishing_curse"
+              ]
+            },
+			{
+              "function": "enchant_randomly",
+              "enchantments": [
+                "binding_curse"
+              ]
+            },
+            {
+              "function": "set_data",
+              "data": 3
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"Light Gray Wool\"},SkullOwner:{Id:\"f6fef3dc-5243-483d-94e2-393ecbeb6417\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTk4YmEyYjM3NGNmYzg5NDU0YzFiOGMzMmRiNDU4YTI3MDY3NTQzOWE0OTU0OTZjOTY3NzFjOTg5MTE2MTYyIn19fQ==\"}]}}}"
+            }
+          ]
+        },
+		{
+          "type": "item",
+          "name": "minecraft:skull",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "enchant_randomly",
+              "enchantments": [
+                "vanishing_curse"
+              ]
+            },
+			{
+              "function": "enchant_randomly",
+              "enchantments": [
+                "binding_curse"
+              ]
+            },
+            {
+              "function": "set_data",
+              "data": 3
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"Cyan Wool\"},SkullOwner:{Id:\"f38918d1-3288-4099-9b8a-3b884c257da0\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODhlZmFkNzRiMjU0ZTU3Yzc5OTc2M2RjZWVlNDUxMWZhMmY4NWFlOWZhNTU2ZWFhOTdkNDViZjY3ZTBiNmIzIn19fQ==\"}]}}}"
+            }
+          ]
+        },
+		{
+          "type": "item",
+          "name": "minecraft:skull",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "enchant_randomly",
+              "enchantments": [
+                "vanishing_curse"
+              ]
+            },
+			{
+              "function": "enchant_randomly",
+              "enchantments": [
+                "binding_curse"
+              ]
+            },
+            {
+              "function": "set_data",
+              "data": 3
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"Purple Wool\"},SkullOwner:{Id:\"1b995bdd-4fdc-4430-bf5a-a4e61dd55b7f\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYmE5NGNiMjVkZTYyOGNhMzU5YjJmNmVhNWE4ODY4Y2JlMjY1OTVlZWRiMmJmZmI3NTA5NjdhZDFlZTE4NTAifX19\"}]}}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:skull",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "enchant_randomly",
+              "enchantments": [
+                "vanishing_curse"
+              ]
+            },
+			{
+              "function": "enchant_randomly",
+              "enchantments": [
+                "binding_curse"
+              ]
+            },
+            {
+              "function": "set_data",
+              "data": 3
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"Blue Wool\"},SkullOwner:{Id:\"8d9ca4f6-21c6-420a-8c63-a0beff448a72\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvM2YzZTQwNjI5MTE3NGQyNGNkZjBmOTUzZjhhMTc0YTgyYmIzNDg5ZGNlOGY2NzlhNDQzZWYxYWFlMDE2OTA2MSJ9fX0=\"}]}}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:skull",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "enchant_randomly",
+              "enchantments": [
+                "vanishing_curse"
+              ]
+            },
+			{
+              "function": "enchant_randomly",
+              "enchantments": [
+                "binding_curse"
+              ]
+            },
+            {
+              "function": "set_data",
+              "data": 3
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"Brown Wool\"},SkullOwner:{Id:\"7272b1c1-dbc8-4533-801a-86164118a749\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzJlMzZmNmE2NTRkZTc0NTgzZDgwMzAxNzdhZDZlM2FjNjc1NWQ3NDM1ZDkxMjNlOGViZGZmNzRiMmQ5MGNiIn19fQ==\"}]}}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:skull",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "enchant_randomly",
+              "enchantments": [
+                "vanishing_curse"
+              ]
+            },
+			{
+              "function": "enchant_randomly",
+              "enchantments": [
+                "binding_curse"
+              ]
+            },
+            {
+              "function": "set_data",
+              "data": 3
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"Green Wool\"},SkullOwner:{Id:\"703f9cf1-9aec-4f93-b7c3-c7d5975a6358\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDg0Njg0MzQ0YWUwOTg1MjlmYzk0MWFhODRlMTk1YmRjYTM3NDhkNjlhY2ZlZTJiYWMxMzMyMTM1ZWRkOThjIn19fQ==\"}]}}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:skull",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "enchant_randomly",
+              "enchantments": [
+                "vanishing_curse"
+              ]
+            },
+			{
+              "function": "enchant_randomly",
+              "enchantments": [
+                "binding_curse"
+              ]
+            },
+            {
+              "function": "set_data",
+              "data": 3
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"Red Wool\"},SkullOwner:{Id:\"9caf209b-f29f-4b43-bc37-6fbf9bb93934\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODZkMzVhOTYzZDU5ODc4OTRiNmJjMjE0ZTMyOGIzOWNkMjM4MjQyNmZmOWM4ZTA4MmIwYjZhNmUwNDRkM2EzIn19fQ==\"}]}}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:skull",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "enchant_randomly",
+              "enchantments": [
+                "vanishing_curse"
+              ]
+            },
+			{
+              "function": "enchant_randomly",
+              "enchantments": [
+                "binding_curse"
+              ]
+            },
+            {
+              "function": "set_data",
+              "data": 3
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"Black Wool\"},SkullOwner:{Id:\"b82be7d6-b59a-4579-b332-be7288bbc2d5\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvM2FiMDI2M2JkZDc2ZjNlNDE4ZGJhNWJmNDgxYjkyMWNlZDM5N2Q4YjhhMzRhNTU2MWZiN2JlYWE0NmVjZTEifX19\"}]}}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

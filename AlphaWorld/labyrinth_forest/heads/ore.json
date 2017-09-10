@@ -1,0 +1,198 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "item",
+          "name": "minecraft:skull",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "enchant_randomly",
+              "enchantments": [
+                "vanishing_curse"
+              ]
+            },
+			{
+              "function": "enchant_randomly",
+              "enchantments": [
+                "binding_curse"
+              ]
+            },
+            {
+              "function": "set_data",
+              "data": 3
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"Coal Ore\"},SkullOwner:{Id:\"6e26d558-9b39-4a63-ab0d-cc0fef72b078\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzc4OGY1ZGRhZjUyYzU4NDIyODdiOTQyN2E3NGRhYzhmMDkxOWViMmZkYjFiNTEzNjVhYjI1ZWIzOTJjNDcifX19\"}]}}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:skull",
+          "weight": 15,
+          "functions": [
+            {
+              "function": "enchant_randomly",
+              "enchantments": [
+                "vanishing_curse"
+              ]
+            },
+			{
+              "function": "enchant_randomly",
+              "enchantments": [
+                "binding_curse"
+              ]
+            },
+            {
+              "function": "set_data",
+              "data": 3
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"Iron Ore\"},SkullOwner:{Id:\"b584d8d1-a5e3-49cf-85db-cfc9a8142274\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGI5N2JkZjkyYjYxOTI2ZTM5ZjVjZGRmMTJmOGY3MTMyOTI5ZGVlNTQxNzcxZTBiNTkyYzhiODJjOWFkNTJkIn19fQ==\"}]}}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:skull",
+          "weight": 2,
+          "functions": [
+            {
+              "function": "enchant_randomly",
+              "enchantments": [
+                "vanishing_curse"
+              ]
+            },
+			{
+              "function": "enchant_randomly",
+              "enchantments": [
+                "binding_curse"
+              ]
+            },
+            {
+              "function": "set_data",
+              "data": 3
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"Gold Ore\"},SkullOwner:{Id:\"f7639653-f9b7-41ce-b19a-decf5726b52c\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTRkZjg5MjI5M2E5MjM2ZjczZjQ4ZjllZmU5NzlmZTA3ZGJkOTFmN2I1ZDIzOWU0YWNmZDM5NGY2ZWNhIn19fQ==\"}]}}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:skull",
+          "weight": 2,
+          "functions": [
+            {
+              "function": "enchant_randomly",
+              "enchantments": [
+                "vanishing_curse"
+              ]
+            },
+			{
+              "function": "enchant_randomly",
+              "enchantments": [
+                "binding_curse"
+              ]
+            },
+            {
+              "function": "set_data",
+              "data": 3
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"Lapis Lazuli Ore\"},SkullOwner:{Id:\"65818039-794b-4d66-8912-a4ff5dc4f5ba\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMmFhMGQwZmVhMWFmYWVlMzM0Y2FiNGQyOWQ4Njk2NTJmNTU2M2M2MzUyNTNjMGNiZWQ3OTdlZDNjZjU3ZGUwIn19fQ==\"}]}}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:skull",
+          "weight": 7,
+          "functions": [
+            {
+              "function": "enchant_randomly",
+              "enchantments": [
+                "vanishing_curse"
+              ]
+            },
+			{
+              "function": "enchant_randomly",
+              "enchantments": [
+                "binding_curse"
+              ]
+            },
+            {
+              "function": "set_data",
+              "data": 3
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"Redstone Ore\"},SkullOwner:{Id:\"533c8b68-908c-424f-a6a9-d0228df22bcc\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZThkZWVlNTg2NmFiMTk5ZWRhMWJkZDc3MDdiZGI5ZWRkNjkzNDQ0ZjFlM2JkMzM2YmQyYzc2NzE1MWNmMiJ9fX0=\"}]}}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:skull",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "enchant_randomly",
+              "enchantments": [
+                "vanishing_curse"
+              ]
+            },
+			{
+              "function": "enchant_randomly",
+              "enchantments": [
+                "binding_curse"
+              ]
+            },
+            {
+              "function": "set_data",
+              "data": 3
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"Diamond Ore\"},SkullOwner:{Id:\"81f4b80a-a1b2-495f-93ff-229685fcc7d8\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjg4Y2Q2ZGQ1MDM1OWM3ZDU4OThjN2M3ZTNlMjYwYmZjZDNkY2IxNDkzYTg5YjllODhlOWNiZWNiZmU0NTk0OSJ9fX0=\"}]}}}"
+            }
+          ]
+        },
+		{
+          "type": "item",
+          "name": "minecraft:skull",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "enchant_randomly",
+              "enchantments": [
+                "vanishing_curse"
+              ]
+            },
+			{
+              "function": "enchant_randomly",
+              "enchantments": [
+                "binding_curse"
+              ]
+            },
+            {
+              "function": "set_data",
+              "data": 3
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"Emerald Ore\"},SkullOwner:{Id:\"e03854c8-c1b7-4cbd-a319-c62f305ccd09\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNGZjNDk1ZDFlNmViNTRhMzg2MDY4YzZjYjEyMWM1ODc1ZTAzMWI3ZjYxZDcyMzZkNWYyNGI3N2RiN2RhN2YifX19\"}]}}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

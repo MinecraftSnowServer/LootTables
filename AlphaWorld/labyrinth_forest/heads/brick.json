@@ -1,0 +1,225 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "item",
+          "name": "minecraft:skull",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "enchant_randomly",
+              "enchantments": [
+                "vanishing_curse"
+              ]
+            },
+			{
+              "function": "enchant_randomly",
+              "enchantments": [
+                "binding_curse"
+              ]
+            },
+            {
+              "function": "set_data",
+              "data": 3
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"Stone Brick\"},SkullOwner:{Id:\"e56df097-718e-4961-8eb7-6a10096fe222\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzdhMmMxOGZmYTRkM2Y0MjE2YjI0MTQxNzllY2Q4OGFlNzllNmIxZTBlODljN2JmMjVkZDM1OTk0ZjdiOTYifX19\"}]}}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:skull",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "enchant_randomly",
+              "enchantments": [
+                "vanishing_curse"
+              ]
+            },
+			{
+              "function": "enchant_randomly",
+              "enchantments": [
+                "binding_curse"
+              ]
+            },
+            {
+              "function": "set_data",
+              "data": 3
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"Stone Brick\"},SkullOwner:{Id:\"9fec1436-b953-4ac6-8aab-19c07f695788\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNmEzYmI5M2I5OTMzNjg5YmM1MDg4ZGVjNzMwYmJlODU5ZDgyNmI2ZGFkNWZmZDc3M2MyZDJiOGY4NDdmNWYifX19\"}]}}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:skull",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "enchant_randomly",
+              "enchantments": [
+                "vanishing_curse"
+              ]
+            },
+			{
+              "function": "enchant_randomly",
+              "enchantments": [
+                "binding_curse"
+              ]
+            },
+            {
+              "function": "set_data",
+              "data": 3
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"Stone Slab\"},SkullOwner:{Id:\"8d1afea0-0ce4-46de-bd8e-d41963eb8dec\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOGRkMGNkMTU4YzJiYjY2MTg2NTBlMzk1NGIyZDI5MjM3ZjViNGMwZGRjN2QyNThlMTczODBhYjY5NzlmMDcxIn19fQ==\"}]}}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:skull",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "enchant_randomly",
+              "enchantments": [
+                "vanishing_curse"
+              ]
+            },
+			{
+              "function": "enchant_randomly",
+              "enchantments": [
+                "binding_curse"
+              ]
+            },
+            {
+              "function": "set_data",
+              "data": 3
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"Polished Granite\"},SkullOwner:{Id:\"35e5aaca-99d4-41c8-8a09-25a9f36e6710\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOWFlNGNmMjJmNDViYjc3YWVmYTVhZmExZjg2NGRkM2M1ZjlkM2U5MmY0M2IzNTg4ZmQxNjJiMmFhOGMifX19\"}]}}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:skull",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "enchant_randomly",
+              "enchantments": [
+                "vanishing_curse"
+              ]
+            },
+			{
+              "function": "enchant_randomly",
+              "enchantments": [
+                "binding_curse"
+              ]
+            },
+            {
+              "function": "set_data",
+              "data": 3
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"Polished Diorite\"},SkullOwner:{Id:\"d950d18e-a3b6-48ce-97e5-00fef277ea9f\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzFhMjgxZjQ5NDUyODZjMzFmYTA3NzEyMWY5YjMyYzU4OGZiOTQwNjRkZTdmOTA4Y2YwZTk2NzdjZGRhOGIxIn19fQ==\"}]}}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:skull",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "enchant_randomly",
+              "enchantments": [
+                "vanishing_curse"
+              ]
+            },
+			{
+              "function": "enchant_randomly",
+              "enchantments": [
+                "binding_curse"
+              ]
+            },
+            {
+              "function": "set_data",
+              "data": 3
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"Polished Andesite\"},SkullOwner:{Id:\"9bbb161b-b46f-4582-8ca6-d736606dc019\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2E5NzlmNzY2MzNmNWRkYTg5NDk2NTExNzE2OTQ4ZTlkN2I4NTkyZjZlMWU0ODBjNWRlMWM4MzIzOGQzZTMyIn19fQ==\"}]}}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:skull",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "enchant_randomly",
+              "enchantments": [
+                "vanishing_curse"
+              ]
+            },
+			{
+              "function": "enchant_randomly",
+              "enchantments": [
+                "binding_curse"
+              ]
+            },
+            {
+              "function": "set_data",
+              "data": 3
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"Brick\"},SkullOwner:{Id:\"db127873-1a45-412d-83e8-5cbc31de58fe\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNWVjMGViZWExODIxYzI5MmZkZmY0NWQzNTliM2E5ZTIxMjI3MTdlODNkNTVkYzA3ZmMzYmIxY2UzMjkzNWUifX19\"}]}}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:skull",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "enchant_randomly",
+              "enchantments": [
+                "vanishing_curse"
+              ]
+            },
+			{
+              "function": "enchant_randomly",
+              "enchantments": [
+                "binding_curse"
+              ]
+            },
+            {
+              "function": "set_data",
+              "data": 3
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"Brick\"},SkullOwner:{Id:\"b06b1e8b-f727-4628-9e02-12331b39dd53\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjkwZDRmY2IyY2UwM2I5NGQ5MjBmMGE5ZTdhNTRiMzJjZmM3YTFkMzNhNmRmZTk3NTdkODY3OGNiYjU5MSJ9fX0=\"}]}}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

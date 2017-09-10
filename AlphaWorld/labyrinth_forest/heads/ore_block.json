@@ -1,0 +1,171 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "item",
+          "name": "minecraft:skull",
+          "weight": 35,
+          "functions": [
+            {
+              "function": "enchant_randomly",
+              "enchantments": [
+                "vanishing_curse"
+              ]
+            },
+			{
+              "function": "enchant_randomly",
+              "enchantments": [
+                "binding_curse"
+              ]
+            },
+            {
+              "function": "set_data",
+              "data": 3
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"Coal Block\"},SkullOwner:{Id:\"c7b9f611-64c6-4e9c-ac97-8dedf8b97e17\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjZjNWVjYWM5NDJjNzdiOTVhYjQ2MjBkZjViODVlMzgwNjRjOTc0ZjljNWM1NzZiODQzNjIyODA2YTQ1NTcifX19\"}]}}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:skull",
+          "weight": 17,
+          "functions": [
+            {
+              "function": "enchant_randomly",
+              "enchantments": [
+                "vanishing_curse"
+              ]
+            },
+			{
+              "function": "enchant_randomly",
+              "enchantments": [
+                "binding_curse"
+              ]
+            },
+            {
+              "function": "set_data",
+              "data": 3
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"Iron Block\"},SkullOwner:{Id:\"03924288-5902-412c-a6ea-a6eb036abd49\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYmJhODQ1OTE0NWQ4M2ZmYzQ0YWQ1OGMzMjYwZTc0Y2E1YTBmNjM0YzdlZWI1OWExYWQzMjM0ODQ5YzkzM2MifX19\"}]}}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:skull",
+          "weight": 3,
+          "functions": [
+            {
+              "function": "enchant_randomly",
+              "enchantments": [
+                "vanishing_curse"
+              ]
+            },
+			{
+              "function": "enchant_randomly",
+              "enchantments": [
+                "binding_curse"
+              ]
+            },
+            {
+              "function": "set_data",
+              "data": 3
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"Gold Block\"},SkullOwner:{Id:\"8178b3d7-b6a6-471c-bc70-15f9c5d89671\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjZkMWNlNjk3ZTlkYmFhNGNjZjY0MjUxNmFhYTU5ODEzMzJkYWMxZDMzMWFmZWUyZWUzZGNjODllZmRlZGIifX19\"}]}}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:skull",
+          "weight": 3,
+          "functions": [
+            {
+              "function": "enchant_randomly",
+              "enchantments": [
+                "vanishing_curse"
+              ]
+            },
+			{
+              "function": "enchant_randomly",
+              "enchantments": [
+                "binding_curse"
+              ]
+            },
+            {
+              "function": "set_data",
+              "data": 3
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"Lapis Lazuli Block\"},SkullOwner:{Id:\"1cbc5f90-4877-47ec-8912-77a3b2314239\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMmQ4NDhkYzZmNjk0Y2JmMzU0NDE3MjJiMWEyN2ExOTVkYTU2ZTQ5NjAyMzE4MjRmZDdlYzViMTMxNWNjMmEifX19\"}]}}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:skull",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "enchant_randomly",
+              "enchantments": [
+                "vanishing_curse"
+              ]
+            },
+			{
+              "function": "enchant_randomly",
+              "enchantments": [
+                "binding_curse"
+              ]
+            },
+            {
+              "function": "set_data",
+              "data": 3
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"Diamond Block\"},SkullOwner:{Id:\"676629d7-3add-440c-8017-663d29d598a6\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzAxNDYxOTczNjM0NTI1MTk2ZWNjNzU3NjkzYjE3MWFkYTRlZjI0YWE5MjgzNmY0MmVhMTFiZDc5YzNhNTAyZCJ9fX0=\"}]}}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:skull",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "enchant_randomly",
+              "enchantments": [
+                "vanishing_curse"
+              ]
+            },
+			{
+              "function": "enchant_randomly",
+              "enchantments": [
+                "binding_curse"
+              ]
+            },
+            {
+              "function": "set_data",
+              "data": 3
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"Emerald Block\"},SkullOwner:{Id:\"5dbeafba-01c0-4e25-bfec-1cd45dd2f068\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYWYxMjFmN2MxYWIxNTY3ZmYyMTk4M2ZmN2E5ZTU1YzQwYzBiODY1ZjA1MGQzN2U1ZDM1ZGVmYmFhIn19fQ==\"}]}}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
