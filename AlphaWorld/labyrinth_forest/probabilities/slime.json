@@ -1,0 +1,27 @@
+{
+  "pools": [{
+      "rolls": 1,
+      "entries": [{
+        "type": "loot_table",
+        "name": "labyrinth_forest:collections/slime",
+        "weight": 1,
+        "conditions": [{
+          "condition": "random_chance",
+          "chance": 0.4
+        }]
+      }]
+    },
+    {
+      "rolls": 1,
+      "entries": [{
+        "type": "loot_table",
+        "name": "labyrinth_forest:collections/slime",
+        "weight": 1,
+        "conditions": [{
+          "condition": "random_chance",
+          "chance": 0.3
+        }]
+      }]
+    }
+  ]
+}

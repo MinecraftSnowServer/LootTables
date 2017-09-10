@@ -1,0 +1,27 @@
+{
+  "pools": [{
+      "rolls": 1,
+      "entries": [{
+        "type": "loot_table",
+        "name": "labyrinth_forest:collections/indoor",
+        "weight": 1,
+        "conditions": [{
+          "condition": "random_chance",
+          "chance": 0.8
+        }]
+      }]
+    },
+    {
+      "rolls": 1,
+      "entries": [{
+        "type": "loot_table",
+        "name": "labyrinth_forest:collections/indoor",
+        "weight": 1,
+        "conditions": [{
+          "condition": "random_chance",
+          "chance": 0.5
+        }]
+      }]
+    }
+  ]
+}

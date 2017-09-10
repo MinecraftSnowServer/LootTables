@@ -1,0 +1,39 @@
+{
+  "pools": [{
+      "rolls": 1,
+      "entries": [{
+        "type": "loot_table",
+        "name": "labyrinth_forest:collections/stone",
+        "weight": 1,
+        "conditions": [{
+          "condition": "random_chance",
+          "chance": 0.8
+        }]
+      }]
+    },
+    {
+      "rolls": 1,
+      "entries": [{
+        "type": "loot_table",
+        "name": "labyrinth_forest:collections/brick",
+        "weight": 1,
+        "conditions": [{
+          "condition": "random_chance",
+          "chance": 0.5
+        }]
+      }]
+    },
+    {
+      "rolls": 1,
+      "entries": [{
+        "type": "loot_table",
+        "name": "labyrinth_forest:collections/brick_bungeon",
+        "weight": 1,
+        "conditions": [{
+          "condition": "random_chance",
+          "chance": 0.2
+        }]
+      }]
+    }
+  ]
+}
