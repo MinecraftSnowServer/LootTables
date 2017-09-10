@@ -1,90 +1,84 @@
 {
-  "pools": [
-    {
-      "rolls": 1,
-      "entries": [
-        {
-          "type": "item",
-          "name": "minecraft:skull",
-          "weight": 10,
-          "functions": [
-            {
-              "function": "enchant_randomly",
-              "enchantments": [
-                "vanishing_curse"
-              ]
-            },
-			{
-              "function": "enchant_randomly",
-              "enchantments": [
-                "binding_curse"
-              ]
-            },
-            {
-              "function": "set_data",
-              "data": 3
-            },
-            {
-              "function": "set_nbt",
-              "tag": "{display:{Name:\"Sand\"},SkullOwner:{Id:\"318fe287-3b79-467b-a29e-8cec142a0f7a\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDdkN2Q3MmU3OGYzNWRlY2QyYjA4ZWE5Yjc0NzkwZTVjZDdlMjY0ODRjZjI0NDliZGVjYTRmNzhiYTMifX19\"}]}}}"
-            }
-          ]
-        },
-        {
-          "type": "item",
-          "name": "minecraft:skull",
-          "weight": 1,
-          "functions": [
-            {
-              "function": "enchant_randomly",
-              "enchantments": [
-                "vanishing_curse"
-              ]
-            },
-			{
-              "function": "enchant_randomly",
-              "enchantments": [
-                "binding_curse"
-              ]
-            },
-            {
-              "function": "set_data",
-              "data": 3
-            },
-            {
-              "function": "set_nbt",
-              "tag": "{display:{Name:\"Red Sand\"},SkullOwner:{Id:\"0e33173e-1e75-4207-9484-8ecbe3a2d458\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNGNlNDFlNjg3OWRmZjA3ODVkMTRjYjc2OTRlYTZiMGRmMTkyYjk2Yjg4MTYwMTNlYjQ1NWU3MTU1MmZjZTZhIn19fQ==\"}]}}}"
-            }
-          ]
-        },
-        {
-          "type": "item",
-          "name": "minecraft:skull",
-          "weight": 5,
-          "functions": [
-            {
-              "function": "enchant_randomly",
-              "enchantments": [
-                "vanishing_curse"
-              ]
-            },
-			{
-              "function": "enchant_randomly",
-              "enchantments": [
-                "binding_curse"
-              ]
-            },
-            {
-              "function": "set_data",
-              "data": 3
-            },
-            {
-              "function": "set_nbt",
-              "tag": "{display:{Name:\"Gravel\"},SkullOwner:{Id:\"c02b21a2-8e9b-4f27-928a-fea86acd5be1\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjMyYTFhNTBiYmU0MzFkYzJmZjcxZThiMjZiYjZkZWExNTVmNzJlMmY0NjlkZGExNGYxMDhjNjA4M2E3ZWNkYSJ9fX0=\"}]}}}"
-            }
-          ]
-        }
-      ]
-    }
-  ]
+  "pools": [{
+    "rolls": 1,
+    "entries": [{
+        "type": "item",
+        "name": "minecraft:skull",
+        "weight": 10,
+        "functions": [{
+            "function": "enchant_randomly",
+            "enchantments": [
+              "vanishing_curse"
+            ]
+          },
+          {
+            "function": "enchant_randomly",
+            "enchantments": [
+              "binding_curse"
+            ]
+          },
+          {
+            "function": "set_data",
+            "data": 3
+          },
+          {
+            "function": "set_nbt",
+            "tag": "{display:{Name:\"Sand\"},SkullOwner:{Id:\"318fe287-3b79-467b-a29e-8cec142a0f7a\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDdkN2Q3MmU3OGYzNWRlY2QyYjA4ZWE5Yjc0NzkwZTVjZDdlMjY0ODRjZjI0NDliZGVjYTRmNzhiYTMifX19\"}]}}}"
+          }
+        ]
+      },
+      {
+        "type": "item",
+        "name": "minecraft:skull",
+        "weight": 1,
+        "functions": [{
+            "function": "enchant_randomly",
+            "enchantments": [
+              "vanishing_curse"
+            ]
+          },
+          {
+            "function": "enchant_randomly",
+            "enchantments": [
+              "binding_curse"
+            ]
+          },
+          {
+            "function": "set_data",
+            "data": 3
+          },
+          {
+            "function": "set_nbt",
+            "tag": "{display:{Name:\"Red Sand\"},SkullOwner:{Id:\"0e33173e-1e75-4207-9484-8ecbe3a2d458\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNGNlNDFlNjg3OWRmZjA3ODVkMTRjYjc2OTRlYTZiMGRmMTkyYjk2Yjg4MTYwMTNlYjQ1NWU3MTU1MmZjZTZhIn19fQ==\"}]}}}"
+          }
+        ]
+      },
+      {
+        "type": "item",
+        "name": "minecraft:skull",
+        "weight": 5,
+        "functions": [{
+            "function": "enchant_randomly",
+            "enchantments": [
+              "vanishing_curse"
+            ]
+          },
+          {
+            "function": "enchant_randomly",
+            "enchantments": [
+              "binding_curse"
+            ]
+          },
+          {
+            "function": "set_data",
+            "data": 3
+          },
+          {
+            "function": "set_nbt",
+            "tag": "{display:{Name:\"Gravel\"},SkullOwner:{Id:\"c02b21a2-8e9b-4f27-928a-fea86acd5be1\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjMyYTFhNTBiYmU0MzFkYzJmZjcxZThiMjZiYjZkZWExNTVmNzJlMmY0NjlkZGExNGYxMDhjNjA4M2E3ZWNkYSJ9fX0=\"}]}}}"
+          }
+        ]
+      }
+    ]
+  }]
 }

@@ -1,144 +1,136 @@
 {
-  "pools": [
-    {
-      "rolls": 1,
-      "entries": [
-        {
-          "type": "item",
-          "name": "minecraft:skull",
-          "weight": 1,
-          "functions": [
-            {
-              "function": "enchant_randomly",
-              "enchantments": [
-                "vanishing_curse"
-              ]
-            },
-			{
-              "function": "enchant_randomly",
-              "enchantments": [
-                "binding_curse"
-              ]
-            },
-            {
-              "function": "set_data",
-              "data": 3
-            },
-            {
-              "function": "set_nbt",
-              "tag": "{display:{Name:\"Ender Portal\"},SkullOwner:{Id:\"f284df11-30a4-4163-818b-94d93a69b605\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTRhMzE5ZGVhZmVmZDZhZGIzN2YyMTQ0OWVhNTZkM2VhNWE4Mzg1N2ZiOTYxNmZhN2Q0ZjllYTYyNTE3NyJ9fX0=\"}]}}}"
-            }
-          ]
-        },
-        {
-          "type": "item",
-          "name": "minecraft:skull",
-          "weight": 3,
-          "functions": [
-            {
-              "function": "enchant_randomly",
-              "enchantments": [
-                "vanishing_curse"
-              ]
-            },
-			{
-              "function": "enchant_randomly",
-              "enchantments": [
-                "binding_curse"
-              ]
-            },
-            {
-              "function": "set_data",
-              "data": 3
-            },
-            {
-              "function": "set_nbt",
-              "tag": "{display:{Name:\"Enderpearl\"},SkullOwner:{Id:\"4d017365-f5b1-43e2-8bbd-fecc5a23fbe6\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNGUzNWFhZGU4MTI5MmU2ZmY0Y2QzM2RjMGVhNmExMzI2ZDA0NTk3YzBlNTI5ZGVmNDE4MmIxZDE1NDhjZmUxIn19fQ==\"}]}}}"
-            }
-          ]
-        },
-        {
-          "type": "item",
-          "name": "minecraft:skull",
-          "weight": 2,
-          "functions": [
-            {
-              "function": "enchant_randomly",
-              "enchantments": [
-                "vanishing_curse"
-              ]
-            },
-			{
-              "function": "enchant_randomly",
-              "enchantments": [
-                "binding_curse"
-              ]
-            },
-            {
-              "function": "set_data",
-              "data": 3
-            },
-            {
-              "function": "set_nbt",
-              "tag": "{display:{Name:\"Endereye\"},SkullOwner:{Id:\"51dda14c-10ab-4365-b01d-5175c57898bf\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODcyZDM0MWQ3N2RiZGU2ZDUzZGFkNjFiZjE5MjUyNGRiZGI5NmFmMTM1OGUwNzQ4ZmVlYTE0ODFiMWY4In19fQ==\"}]}}}"
-            }
-          ]
-        },
-        {
-          "type": "item",
-          "name": "minecraft:skull",
-          "weight": 2,
-          "functions": [
-            {
-              "function": "enchant_randomly",
-              "enchantments": [
-                "vanishing_curse"
-              ]
-            },
-			{
-              "function": "enchant_randomly",
-              "enchantments": [
-                "binding_curse"
-              ]
-            },
-            {
-              "function": "set_data",
-              "data": 3
-            },
-            {
-              "function": "set_nbt",
-              "tag": "{display:{Name:\"Eye of Ender\"},SkullOwner:{Id:\"edd3562f-fb51-4878-af32-1f657e8ae56d\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMWZlOGU3ZjJkYjhlYWE4OGEwNDFjODlkNGMzNTNkMDY2Y2M0ZWRlZjc3ZWRjZjVlMDhiYjVkM2JhYWQifX19\"}]}}}"
-            }
-          ]
-        },
-        {
-          "type": "item",
-          "name": "minecraft:skull",
-          "weight": 2,
-          "functions": [
-            {
-              "function": "enchant_randomly",
-              "enchantments": [
-                "vanishing_curse"
-              ]
-            },
-			{
-              "function": "enchant_randomly",
-              "enchantments": [
-                "binding_curse"
-              ]
-            },
-            {
-              "function": "set_data",
-              "data": 3
-            },
-            {
-              "function": "set_nbt",
-              "tag": "{display:{Name:\"Enderchest\"},SkullOwner:{Id:\"42db67b6-9dd1-4bfe-b478-8829c1622218\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTZjYzQ4NmMyYmUxY2I5ZGZjYjJlNTNkZDlhM2U5YTg4M2JmYWRiMjdjYjk1NmYxODk2ZDYwMmI0MDY3In19fQ==\"}]}}}"
-            }
-          ]
-        }
-      ]
-    }
-  ]
+  "pools": [{
+    "rolls": 1,
+    "entries": [{
+        "type": "item",
+        "name": "minecraft:skull",
+        "weight": 1,
+        "functions": [{
+            "function": "enchant_randomly",
+            "enchantments": [
+              "vanishing_curse"
+            ]
+          },
+          {
+            "function": "enchant_randomly",
+            "enchantments": [
+              "binding_curse"
+            ]
+          },
+          {
+            "function": "set_data",
+            "data": 3
+          },
+          {
+            "function": "set_nbt",
+            "tag": "{display:{Name:\"Ender Portal\"},SkullOwner:{Id:\"f284df11-30a4-4163-818b-94d93a69b605\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTRhMzE5ZGVhZmVmZDZhZGIzN2YyMTQ0OWVhNTZkM2VhNWE4Mzg1N2ZiOTYxNmZhN2Q0ZjllYTYyNTE3NyJ9fX0=\"}]}}}"
+          }
+        ]
+      },
+      {
+        "type": "item",
+        "name": "minecraft:skull",
+        "weight": 3,
+        "functions": [{
+            "function": "enchant_randomly",
+            "enchantments": [
+              "vanishing_curse"
+            ]
+          },
+          {
+            "function": "enchant_randomly",
+            "enchantments": [
+              "binding_curse"
+            ]
+          },
+          {
+            "function": "set_data",
+            "data": 3
+          },
+          {
+            "function": "set_nbt",
+            "tag": "{display:{Name:\"Enderpearl\"},SkullOwner:{Id:\"4d017365-f5b1-43e2-8bbd-fecc5a23fbe6\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNGUzNWFhZGU4MTI5MmU2ZmY0Y2QzM2RjMGVhNmExMzI2ZDA0NTk3YzBlNTI5ZGVmNDE4MmIxZDE1NDhjZmUxIn19fQ==\"}]}}}"
+          }
+        ]
+      },
+      {
+        "type": "item",
+        "name": "minecraft:skull",
+        "weight": 2,
+        "functions": [{
+            "function": "enchant_randomly",
+            "enchantments": [
+              "vanishing_curse"
+            ]
+          },
+          {
+            "function": "enchant_randomly",
+            "enchantments": [
+              "binding_curse"
+            ]
+          },
+          {
+            "function": "set_data",
+            "data": 3
+          },
+          {
+            "function": "set_nbt",
+            "tag": "{display:{Name:\"Endereye\"},SkullOwner:{Id:\"51dda14c-10ab-4365-b01d-5175c57898bf\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODcyZDM0MWQ3N2RiZGU2ZDUzZGFkNjFiZjE5MjUyNGRiZGI5NmFmMTM1OGUwNzQ4ZmVlYTE0ODFiMWY4In19fQ==\"}]}}}"
+          }
+        ]
+      },
+      {
+        "type": "item",
+        "name": "minecraft:skull",
+        "weight": 2,
+        "functions": [{
+            "function": "enchant_randomly",
+            "enchantments": [
+              "vanishing_curse"
+            ]
+          },
+          {
+            "function": "enchant_randomly",
+            "enchantments": [
+              "binding_curse"
+            ]
+          },
+          {
+            "function": "set_data",
+            "data": 3
+          },
+          {
+            "function": "set_nbt",
+            "tag": "{display:{Name:\"Eye of Ender\"},SkullOwner:{Id:\"edd3562f-fb51-4878-af32-1f657e8ae56d\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMWZlOGU3ZjJkYjhlYWE4OGEwNDFjODlkNGMzNTNkMDY2Y2M0ZWRlZjc3ZWRjZjVlMDhiYjVkM2JhYWQifX19\"}]}}}"
+          }
+        ]
+      },
+      {
+        "type": "item",
+        "name": "minecraft:skull",
+        "weight": 2,
+        "functions": [{
+            "function": "enchant_randomly",
+            "enchantments": [
+              "vanishing_curse"
+            ]
+          },
+          {
+            "function": "enchant_randomly",
+            "enchantments": [
+              "binding_curse"
+            ]
+          },
+          {
+            "function": "set_data",
+            "data": 3
+          },
+          {
+            "function": "set_nbt",
+            "tag": "{display:{Name:\"Enderchest\"},SkullOwner:{Id:\"42db67b6-9dd1-4bfe-b478-8829c1622218\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTZjYzQ4NmMyYmUxY2I5ZGZjYjJlNTNkZDlhM2U5YTg4M2JmYWRiMjdjYjk1NmYxODk2ZDYwMmI0MDY3In19fQ==\"}]}}}"
+          }
+        ]
+      }
+    ]
+  }]
 }

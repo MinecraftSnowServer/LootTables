@@ -1,52 +1,39 @@
 {
-  "pools": [
+  "pools": [{
+      "rolls": 1,
+      "entries": [{
+        "type": "loot_table",
+        "name": "Labyrinth_Forest:heads/ore",
+        "weight": 1,
+        "conditions": [{
+          "condition": "random_chance",
+          "chance": 0.8
+        }]
+      }]
+    },
     {
       "rolls": 1,
-      "entries": [
-        {
-          "type": "loot_table",
-          "name": "Labyrinth_Forest:heads/ore",
-          "weight": 1,      
-		  "conditions": [  
-				{  
-                    "condition": "random_chance", 
-                    "chance": 0.8 
-                }
-                    ]
-		}
-				]
+      "entries": [{
+        "type": "loot_table",
+        "name": "Labyrinth_Forest:heads/ore",
+        "weight": 1,
+        "conditions": [{
+          "condition": "random_chance",
+          "chance": 0.5
+        }]
+      }]
     },
-	{
+    {
       "rolls": 1,
-      "entries": [
-		{
-          "type": "loot_table",
-          "name": "Labyrinth_Forest:heads/ore",
-          "weight": 1,     
-		  "conditions": [  
-				{  
-                    "condition": "random_chance", 
-                    "chance": 0.5 
-                }
-                    ]
-		}   
-				]		
-    },
-	{
-      "rolls": 1,
-      "entries": [
-		{
-          "type": "loot_table",
-          "name": "Labyrinth_Forest:heads/lava",
-          "weight": 1,     
-		  "conditions": [  
-				{  
-                    "condition": "random_chance", 
-                    "chance": 0.01 
-                }
-                    ]
-		}   
-				]		
+      "entries": [{
+        "type": "loot_table",
+        "name": "Labyrinth_Forest:heads/lava",
+        "weight": 1,
+        "conditions": [{
+          "condition": "random_chance",
+          "chance": 0.01
+        }]
+      }]
     }
-           ]
+  ]
 }

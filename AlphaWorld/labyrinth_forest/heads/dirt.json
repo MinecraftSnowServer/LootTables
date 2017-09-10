@@ -1,252 +1,240 @@
 {
-  "pools": [
-    {
-      "rolls": 1,
-      "entries": [
-        {
-          "type": "item",
-          "name": "minecraft:skull",
-          "weight": 20,
-          "functions": [
-            {
-              "function": "enchant_randomly",
-              "enchantments": [
-                "vanishing_curse"
-              ]
-            },
-			{
-              "function": "enchant_randomly",
-              "enchantments": [
-                "binding_curse"
-              ]
-            },
-            {
-              "function": "set_data",
-              "data": 3
-            },
-            {
-              "function": "set_nbt",
-              "tag": "{display:{Name:\"Dirt\"},SkullOwner:{Id:\"ca021f3f-5002-46b2-bf34-9857790901cf\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMWFiNDNiOGMzZDM0ZjEyNWU1YTNmOGI5MmNkNDNkZmQxNGM2MjQwMmMzMzI5ODQ2MWQ0ZDRkN2NlMmQzYWVhIn19fQ==\"}]}}}"
-            }
-          ]
-        },
-        {
-          "type": "item",
-          "name": "minecraft:skull",
-          "weight": 5,
-          "functions": [
-            {
-              "function": "enchant_randomly",
-              "enchantments": [
-                "vanishing_curse"
-              ]
-            },
-			{
-              "function": "enchant_randomly",
-              "enchantments": [
-                "binding_curse"
-              ]
-            },
-            {
-              "function": "set_data",
-              "data": 3
-            },
-            {
-              "function": "set_nbt",
-              "tag": "{display:{Name:\"Coarse Dirt\"},SkullOwner:{Id:\"a37264ac-b24a-4570-a297-c62ffa891e3a\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMmZhNzY0YjNjMWQ0NjJmODEyNDQ3OGZmNTQzYzc2MzNmYTE5YmFmOTkxM2VlMjI4NTEzZTgxYTM2MzNkIn19fQ==\"}]}}}"
-            }
-          ]
-        },
-        {
-          "type": "item",
-          "name": "minecraft:skull",
-          "weight": 20,
-          "functions": [
-            {
-              "function": "enchant_randomly",
-              "enchantments": [
-                "vanishing_curse"
-              ]
-            },
-			{
-              "function": "enchant_randomly",
-              "enchantments": [
-                "binding_curse"
-              ]
-            },
-            {
-              "function": "set_data",
-              "data": 3
-            },
-            {
-              "function": "set_nbt",
-              "tag": "{display:{Name:\"Grass\"},SkullOwner:{Id:\"e2e44b3b-e45b-45ae-82ce-2ed4208184a2\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzk1ZDM3OTkzZTU5NDA4MjY3ODQ3MmJmOWQ4NjgyMzQxM2MyNTBkNDMzMmEyYzdkOGM1MmRlNDk3NmIzNjIifX19\"}]}}}"
-            }
-          ]
-        },
-        {
-          "type": "item",
-          "name": "minecraft:skull",
-          "weight": 1,
-          "functions": [
-            {
-              "function": "enchant_randomly",
-              "enchantments": [
-                "vanishing_curse"
-              ]
-            },
-			{
-              "function": "enchant_randomly",
-              "enchantments": [
-                "binding_curse"
-              ]
-            },
-            {
-              "function": "set_data",
-              "data": 3
-            },
-            {
-              "function": "set_nbt",
-              "tag": "{display:{Name:\"Grass\"},SkullOwner:{Id:\"f31b9927-65fd-4845-bc73-cfa2d18e7b8d\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjkyZWYzNWQ3MTcwY2E1NTVlN2RmODc5N2FmMDJlOWQ1MjkyZTkxNGVlMjU3OWFmOGYxNWFjNDg4N2IifX19\"}]}}}"
-            }
-          ]
-        },
-        {
-          "type": "item",
-          "name": "minecraft:skull",
-          "weight": 3,
-          "functions": [
-            {
-              "function": "enchant_randomly",
-              "enchantments": [
-                "vanishing_curse"
-              ]
-            },
-			{
-              "function": "enchant_randomly",
-              "enchantments": [
-                "binding_curse"
-              ]
-            },
-            {
-              "function": "set_data",
-              "data": 3
-            },
-            {
-              "function": "set_nbt",
-              "tag": "{display:{Name:\"Podzol\"},SkullOwner:{Id:\"27743c84-c5fa-4334-848b-c2fd293f23f8\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTQxOTVmOWE0MzljNmQwZmZkMTk2MTY1N2Y2ZjBhYThlM2EyZjhhMjQ5M2FmYTY2MmFiNWU0MTkzZTAifX19\"}]}}}"
-            }
-          ]
-        },
-        {
-          "type": "item",
-          "name": "minecraft:skull",
-          "weight": 3,
-          "functions": [
-            {
-              "function": "enchant_randomly",
-              "enchantments": [
-                "vanishing_curse"
-              ]
-            },
-			{
-              "function": "enchant_randomly",
-              "enchantments": [
-                "binding_curse"
-              ]
-            },
-            {
-              "function": "set_data",
-              "data": 3
-            },
-            {
-              "function": "set_nbt",
-              "tag": "{display:{Name:\"Mycellium\"},SkullOwner:{Id:\"359b3739-61e7-4d35-b9d8-5f6b663ed0ea\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvN2ViNGM0MWY0ODFlODE2Y2Y0YjUwN2IwYTE3NTk1ZjJiYTFmMjQ2NjRkYzQzMmJlMzQ3ZDRlN2E0ZWIzIn19fQ==\"}]}}}"
-            }
-          ]
-        },
-		{
-          "type": "item",
-          "name": "minecraft:skull",
-          "weight": 1,
-          "functions": [
-            {
-              "function": "enchant_randomly",
-              "enchantments": [
-                "vanishing_curse"
-              ]
-            },
-			{
-              "function": "enchant_randomly",
-              "enchantments": [
-                "binding_curse"
-              ]
-            },
-            {
-              "function": "set_data",
-              "data": 3
-            },
-            {
-              "function": "set_nbt",
-              "tag": "{display:{Name:\"Clay\"},SkullOwner:{Id:\"d168a3ce-0b99-4eb0-b3cd-4216189e4008\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjc4MjY4MjllYWI1YWQ2MmYwYzExZDlmYWFmZGM5OTU0MzY0ODcxMTYwZGQ4MzllMWFiNWEzYjIxM2EzMyJ9fX0=\"}]}}}"
-            }
-          ]
-        },
-		{
-          "type": "item",
-          "name": "minecraft:skull",
-          "weight": 5,
-          "functions": [
-            {
-              "function": "enchant_randomly",
-              "enchantments": [
-                "vanishing_curse"
-              ]
-            },
-			{
-              "function": "enchant_randomly",
-              "enchantments": [
-                "binding_curse"
-              ]
-            },
-            {
-              "function": "set_data",
-              "data": 3
-            },
-            {
-              "function": "set_nbt",
-              "tag": "{display:{Name:\"Dry Farmland\"},SkullOwner:{Id:\"8dbdb2af-603e-4ec4-8bff-51911f968a30\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTE1MzBmNzkwZTk3MmUwYmNjNjNhNTRkYzU1NTMyOTAyNTY4ZGVmOGRlZGYyZTIyZTc1OWJiY2JjNTVjMCJ9fX0=\"}]}}}"
-            }
-          ]
-        },
-		{
-          "type": "item",
-          "name": "minecraft:skull",
-          "weight": 10,
-          "functions": [
-            {
-              "function": "enchant_randomly",
-              "enchantments": [
-                "vanishing_curse"
-              ]
-            },
-			{
-              "function": "enchant_randomly",
-              "enchantments": [
-                "binding_curse"
-              ]
-            },
-            {
-              "function": "set_data",
-              "data": 3
-            },
-            {
-              "function": "set_nbt",
-              "tag": "{display:{Name:\"Hydrated Farmland\"},SkullOwner:{Id:\"407dd44c-95da-464a-991b-6cac1abc0e16\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOWE2NTY5MjZhZGNkNTA3ZmYwNzljZTQyZjUxNzc0MzVjMjhlZjM2OTM1OWNmN2NhNmY5ZDgyNWY1NzY3ZGIifX19\"}]}}}"
-            }
-          ]
-        }
-      ]
-    }
-  ]
+  "pools": [{
+    "rolls": 1,
+    "entries": [{
+        "type": "item",
+        "name": "minecraft:skull",
+        "weight": 20,
+        "functions": [{
+            "function": "enchant_randomly",
+            "enchantments": [
+              "vanishing_curse"
+            ]
+          },
+          {
+            "function": "enchant_randomly",
+            "enchantments": [
+              "binding_curse"
+            ]
+          },
+          {
+            "function": "set_data",
+            "data": 3
+          },
+          {
+            "function": "set_nbt",
+            "tag": "{display:{Name:\"Dirt\"},SkullOwner:{Id:\"ca021f3f-5002-46b2-bf34-9857790901cf\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMWFiNDNiOGMzZDM0ZjEyNWU1YTNmOGI5MmNkNDNkZmQxNGM2MjQwMmMzMzI5ODQ2MWQ0ZDRkN2NlMmQzYWVhIn19fQ==\"}]}}}"
+          }
+        ]
+      },
+      {
+        "type": "item",
+        "name": "minecraft:skull",
+        "weight": 5,
+        "functions": [{
+            "function": "enchant_randomly",
+            "enchantments": [
+              "vanishing_curse"
+            ]
+          },
+          {
+            "function": "enchant_randomly",
+            "enchantments": [
+              "binding_curse"
+            ]
+          },
+          {
+            "function": "set_data",
+            "data": 3
+          },
+          {
+            "function": "set_nbt",
+            "tag": "{display:{Name:\"Coarse Dirt\"},SkullOwner:{Id:\"a37264ac-b24a-4570-a297-c62ffa891e3a\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMmZhNzY0YjNjMWQ0NjJmODEyNDQ3OGZmNTQzYzc2MzNmYTE5YmFmOTkxM2VlMjI4NTEzZTgxYTM2MzNkIn19fQ==\"}]}}}"
+          }
+        ]
+      },
+      {
+        "type": "item",
+        "name": "minecraft:skull",
+        "weight": 20,
+        "functions": [{
+            "function": "enchant_randomly",
+            "enchantments": [
+              "vanishing_curse"
+            ]
+          },
+          {
+            "function": "enchant_randomly",
+            "enchantments": [
+              "binding_curse"
+            ]
+          },
+          {
+            "function": "set_data",
+            "data": 3
+          },
+          {
+            "function": "set_nbt",
+            "tag": "{display:{Name:\"Grass\"},SkullOwner:{Id:\"e2e44b3b-e45b-45ae-82ce-2ed4208184a2\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzk1ZDM3OTkzZTU5NDA4MjY3ODQ3MmJmOWQ4NjgyMzQxM2MyNTBkNDMzMmEyYzdkOGM1MmRlNDk3NmIzNjIifX19\"}]}}}"
+          }
+        ]
+      },
+      {
+        "type": "item",
+        "name": "minecraft:skull",
+        "weight": 1,
+        "functions": [{
+            "function": "enchant_randomly",
+            "enchantments": [
+              "vanishing_curse"
+            ]
+          },
+          {
+            "function": "enchant_randomly",
+            "enchantments": [
+              "binding_curse"
+            ]
+          },
+          {
+            "function": "set_data",
+            "data": 3
+          },
+          {
+            "function": "set_nbt",
+            "tag": "{display:{Name:\"Grass\"},SkullOwner:{Id:\"f31b9927-65fd-4845-bc73-cfa2d18e7b8d\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjkyZWYzNWQ3MTcwY2E1NTVlN2RmODc5N2FmMDJlOWQ1MjkyZTkxNGVlMjU3OWFmOGYxNWFjNDg4N2IifX19\"}]}}}"
+          }
+        ]
+      },
+      {
+        "type": "item",
+        "name": "minecraft:skull",
+        "weight": 3,
+        "functions": [{
+            "function": "enchant_randomly",
+            "enchantments": [
+              "vanishing_curse"
+            ]
+          },
+          {
+            "function": "enchant_randomly",
+            "enchantments": [
+              "binding_curse"
+            ]
+          },
+          {
+            "function": "set_data",
+            "data": 3
+          },
+          {
+            "function": "set_nbt",
+            "tag": "{display:{Name:\"Podzol\"},SkullOwner:{Id:\"27743c84-c5fa-4334-848b-c2fd293f23f8\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTQxOTVmOWE0MzljNmQwZmZkMTk2MTY1N2Y2ZjBhYThlM2EyZjhhMjQ5M2FmYTY2MmFiNWU0MTkzZTAifX19\"}]}}}"
+          }
+        ]
+      },
+      {
+        "type": "item",
+        "name": "minecraft:skull",
+        "weight": 3,
+        "functions": [{
+            "function": "enchant_randomly",
+            "enchantments": [
+              "vanishing_curse"
+            ]
+          },
+          {
+            "function": "enchant_randomly",
+            "enchantments": [
+              "binding_curse"
+            ]
+          },
+          {
+            "function": "set_data",
+            "data": 3
+          },
+          {
+            "function": "set_nbt",
+            "tag": "{display:{Name:\"Mycellium\"},SkullOwner:{Id:\"359b3739-61e7-4d35-b9d8-5f6b663ed0ea\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvN2ViNGM0MWY0ODFlODE2Y2Y0YjUwN2IwYTE3NTk1ZjJiYTFmMjQ2NjRkYzQzMmJlMzQ3ZDRlN2E0ZWIzIn19fQ==\"}]}}}"
+          }
+        ]
+      },
+      {
+        "type": "item",
+        "name": "minecraft:skull",
+        "weight": 1,
+        "functions": [{
+            "function": "enchant_randomly",
+            "enchantments": [
+              "vanishing_curse"
+            ]
+          },
+          {
+            "function": "enchant_randomly",
+            "enchantments": [
+              "binding_curse"
+            ]
+          },
+          {
+            "function": "set_data",
+            "data": 3
+          },
+          {
+            "function": "set_nbt",
+            "tag": "{display:{Name:\"Clay\"},SkullOwner:{Id:\"d168a3ce-0b99-4eb0-b3cd-4216189e4008\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjc4MjY4MjllYWI1YWQ2MmYwYzExZDlmYWFmZGM5OTU0MzY0ODcxMTYwZGQ4MzllMWFiNWEzYjIxM2EzMyJ9fX0=\"}]}}}"
+          }
+        ]
+      },
+      {
+        "type": "item",
+        "name": "minecraft:skull",
+        "weight": 5,
+        "functions": [{
+            "function": "enchant_randomly",
+            "enchantments": [
+              "vanishing_curse"
+            ]
+          },
+          {
+            "function": "enchant_randomly",
+            "enchantments": [
+              "binding_curse"
+            ]
+          },
+          {
+            "function": "set_data",
+            "data": 3
+          },
+          {
+            "function": "set_nbt",
+            "tag": "{display:{Name:\"Dry Farmland\"},SkullOwner:{Id:\"8dbdb2af-603e-4ec4-8bff-51911f968a30\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTE1MzBmNzkwZTk3MmUwYmNjNjNhNTRkYzU1NTMyOTAyNTY4ZGVmOGRlZGYyZTIyZTc1OWJiY2JjNTVjMCJ9fX0=\"}]}}}"
+          }
+        ]
+      },
+      {
+        "type": "item",
+        "name": "minecraft:skull",
+        "weight": 10,
+        "functions": [{
+            "function": "enchant_randomly",
+            "enchantments": [
+              "vanishing_curse"
+            ]
+          },
+          {
+            "function": "enchant_randomly",
+            "enchantments": [
+              "binding_curse"
+            ]
+          },
+          {
+            "function": "set_data",
+            "data": 3
+          },
+          {
+            "function": "set_nbt",
+            "tag": "{display:{Name:\"Hydrated Farmland\"},SkullOwner:{Id:\"407dd44c-95da-464a-991b-6cac1abc0e16\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOWE2NTY5MjZhZGNkNTA3ZmYwNzljZTQyZjUxNzc0MzVjMjhlZjM2OTM1OWNmN2NhNmY5ZDgyNWY1NzY3ZGIifX19\"}]}}}"
+          }
+        ]
+      }
+    ]
+  }]
 }

@@ -1,144 +1,136 @@
 {
-  "pools": [
-    {
-      "rolls": 1,
-      "entries": [
-        {
-          "type": "item",
-          "name": "minecraft:skull",
-          "weight": 1,
-          "functions": [
-            {
-              "function": "enchant_randomly",
-              "enchantments": [
-                "vanishing_curse"
-              ]
-            },
-			{
-              "function": "enchant_randomly",
-              "enchantments": [
-                "binding_curse"
-              ]
-            },
-            {
-              "function": "set_data",
-              "data": 3
-            },
-            {
-              "function": "set_nbt",
-              "tag": "{display:{Name:\"Apple\"},SkullOwner:{Id:\"0d5fd9c3-d044-478f-b774-d37b5f86fa2a\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTJiMzViZGE1ZWJkZjEzNWY0ZTcxY2U0OTcyNmZiZWM1NzM5ZjBhZGVkZjAxYzUxOWUyYWVhN2Y1MTk1MWVhMiJ9fX0=\"}]}}}"
-            }
-          ]
-        },
-        {
-          "type": "item",
-          "name": "minecraft:skull",
-          "weight": 1,
-          "functions": [
-            {
-              "function": "enchant_randomly",
-              "enchantments": [
-                "vanishing_curse"
-              ]
-            },
-			{
-              "function": "enchant_randomly",
-              "enchantments": [
-                "binding_curse"
-              ]
-            },
-            {
-              "function": "set_data",
-              "data": 3
-            },
-            {
-              "function": "set_nbt",
-              "tag": "{display:{Name:\"Apple\"},SkullOwner:{Id:\"686e76dd-66c2-497a-bef9-731e1d558d62\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMmZiMGUyMjFmZDgxYjk4YjhiNTY5YjM1MjJkNTIzMWNmOGIzNjc3MzJmMzdiMzgxZTdhY2VhMjlhNmU4NCJ9fX0=\"}]}}}"
-            }
-          ]
-        },
-        {
-          "type": "item",
-          "name": "minecraft:skull",
-          "weight": 1,
-          "functions": [
-            {
-              "function": "enchant_randomly",
-              "enchantments": [
-                "vanishing_curse"
-              ]
-            },
-			{
-              "function": "enchant_randomly",
-              "enchantments": [
-                "binding_curse"
-              ]
-            },
-            {
-              "function": "set_data",
-              "data": 3
-            },
-            {
-              "function": "set_nbt",
-              "tag": "{display:{Name:\"Apple\"},SkullOwner:{Id:\"27ff2d9d-5cc7-40d7-955a-6ac84b7aa6da\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2M5ZWJhNjNhOWQxMmNiNmZkZTYzYmFkYmUyODlkODg4ZjU3MjE5ZjQxMjJjMjgyMGVhNjU0ZmJlNjM1MGE1In19fQ==\"}]}}}"
-            }
-          ]
-        },
-        {
-          "type": "item",
-          "name": "minecraft:skull",
-          "weight": 1,
-          "functions": [
-            {
-              "function": "enchant_randomly",
-              "enchantments": [
-                "vanishing_curse"
-              ]
-            },
-			{
-              "function": "enchant_randomly",
-              "enchantments": [
-                "binding_curse"
-              ]
-            },
-            {
-              "function": "set_data",
-              "data": 3
-            },
-            {
-              "function": "set_nbt",
-              "tag": "{display:{Name:\"Apple\"},SkullOwner:{Id:\"1f5ef611-dcfc-4719-8df5-36aa26a02f33\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODU2NDc5N2NkNjI2NjQ0NDhlZDAyOGU0ODdhY2Q5NWQ1NzA3NWRjZTQ5YTM1NmZjYzY1NjU1YjJiNTI1ZGRiIn19fQ==\"}]}}}"
-            }
-          ]
-        },
-        {
-          "type": "item",
-          "name": "minecraft:skull",
-          "weight": 1,
-          "functions": [
-            {
-              "function": "enchant_randomly",
-              "enchantments": [
-                "vanishing_curse"
-              ]
-            },
-			{
-              "function": "enchant_randomly",
-              "enchantments": [
-                "binding_curse"
-              ]
-            },
-            {
-              "function": "set_data",
-              "data": 3
-            },
-            {
-              "function": "set_nbt",
-              "tag": "{display:{Name:\"Apple\"},SkullOwner:{Id:\"ebd81954-37b1-49f4-aaa1-8e79e2e3a856\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjNlODY1OTQ3OGRkMjhiMWFkZTZlYmU3ZDNlMWQ2NzU4ZTIxOWY0MzhkYjc4NGE1YWRkZWRhODZlZDFhMzhhIn19fQ==\"}]}}}"
-            }
-          ]
-        }
-      ]
-    }
-  ]
+  "pools": [{
+    "rolls": 1,
+    "entries": [{
+        "type": "item",
+        "name": "minecraft:skull",
+        "weight": 1,
+        "functions": [{
+            "function": "enchant_randomly",
+            "enchantments": [
+              "vanishing_curse"
+            ]
+          },
+          {
+            "function": "enchant_randomly",
+            "enchantments": [
+              "binding_curse"
+            ]
+          },
+          {
+            "function": "set_data",
+            "data": 3
+          },
+          {
+            "function": "set_nbt",
+            "tag": "{display:{Name:\"Apple\"},SkullOwner:{Id:\"0d5fd9c3-d044-478f-b774-d37b5f86fa2a\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTJiMzViZGE1ZWJkZjEzNWY0ZTcxY2U0OTcyNmZiZWM1NzM5ZjBhZGVkZjAxYzUxOWUyYWVhN2Y1MTk1MWVhMiJ9fX0=\"}]}}}"
+          }
+        ]
+      },
+      {
+        "type": "item",
+        "name": "minecraft:skull",
+        "weight": 1,
+        "functions": [{
+            "function": "enchant_randomly",
+            "enchantments": [
+              "vanishing_curse"
+            ]
+          },
+          {
+            "function": "enchant_randomly",
+            "enchantments": [
+              "binding_curse"
+            ]
+          },
+          {
+            "function": "set_data",
+            "data": 3
+          },
+          {
+            "function": "set_nbt",
+            "tag": "{display:{Name:\"Apple\"},SkullOwner:{Id:\"686e76dd-66c2-497a-bef9-731e1d558d62\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMmZiMGUyMjFmZDgxYjk4YjhiNTY5YjM1MjJkNTIzMWNmOGIzNjc3MzJmMzdiMzgxZTdhY2VhMjlhNmU4NCJ9fX0=\"}]}}}"
+          }
+        ]
+      },
+      {
+        "type": "item",
+        "name": "minecraft:skull",
+        "weight": 1,
+        "functions": [{
+            "function": "enchant_randomly",
+            "enchantments": [
+              "vanishing_curse"
+            ]
+          },
+          {
+            "function": "enchant_randomly",
+            "enchantments": [
+              "binding_curse"
+            ]
+          },
+          {
+            "function": "set_data",
+            "data": 3
+          },
+          {
+            "function": "set_nbt",
+            "tag": "{display:{Name:\"Apple\"},SkullOwner:{Id:\"27ff2d9d-5cc7-40d7-955a-6ac84b7aa6da\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2M5ZWJhNjNhOWQxMmNiNmZkZTYzYmFkYmUyODlkODg4ZjU3MjE5ZjQxMjJjMjgyMGVhNjU0ZmJlNjM1MGE1In19fQ==\"}]}}}"
+          }
+        ]
+      },
+      {
+        "type": "item",
+        "name": "minecraft:skull",
+        "weight": 1,
+        "functions": [{
+            "function": "enchant_randomly",
+            "enchantments": [
+              "vanishing_curse"
+            ]
+          },
+          {
+            "function": "enchant_randomly",
+            "enchantments": [
+              "binding_curse"
+            ]
+          },
+          {
+            "function": "set_data",
+            "data": 3
+          },
+          {
+            "function": "set_nbt",
+            "tag": "{display:{Name:\"Apple\"},SkullOwner:{Id:\"1f5ef611-dcfc-4719-8df5-36aa26a02f33\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODU2NDc5N2NkNjI2NjQ0NDhlZDAyOGU0ODdhY2Q5NWQ1NzA3NWRjZTQ5YTM1NmZjYzY1NjU1YjJiNTI1ZGRiIn19fQ==\"}]}}}"
+          }
+        ]
+      },
+      {
+        "type": "item",
+        "name": "minecraft:skull",
+        "weight": 1,
+        "functions": [{
+            "function": "enchant_randomly",
+            "enchantments": [
+              "vanishing_curse"
+            ]
+          },
+          {
+            "function": "enchant_randomly",
+            "enchantments": [
+              "binding_curse"
+            ]
+          },
+          {
+            "function": "set_data",
+            "data": 3
+          },
+          {
+            "function": "set_nbt",
+            "tag": "{display:{Name:\"Apple\"},SkullOwner:{Id:\"ebd81954-37b1-49f4-aaa1-8e79e2e3a856\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjNlODY1OTQ3OGRkMjhiMWFkZTZlYmU3ZDNlMWQ2NzU4ZTIxOWY0MzhkYjc4NGE1YWRkZWRhODZlZDFhMzhhIn19fQ==\"}]}}}"
+          }
+        ]
+      }
+    ]
+  }]
 }

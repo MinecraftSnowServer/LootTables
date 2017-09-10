@@ -1,63 +1,58 @@
 {
-  "pools": [
-    {
-      "rolls": 1,
-      "entries": [
-        {
-          "type": "item",
-          "name": "minecraft:skull",
-          "weight": 9,
-          "functions": [
-            {
-              "function": "enchant_randomly",
-              "enchantments": [
-                "vanishing_curse"
-              ]
-            },
-			{
-              "function": "enchant_randomly",
-              "enchantments": [
-                "binding_curse"
-              ]
-            },
-            {
-              "function": "set_data",
-              "data": 3
-            },
-            {
-              "function": "set_nbt",
-              "tag": "{display:{Name:\"Slime Ball\"},SkullOwner:{Id:\"d9316bb7-755b-4141-a4c9-c6958d9047f6\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDkzNGE5ZjVhYjE3ODlhN2Q4ZGQ5NmQzMjQ5M2NkYWNmZjU3N2Q4YzgxZTdiMjM5MTdkZmYyZTMyYmQwYmMxMCJ9fX0=\"}]}}}"
-            }
-          ]
-        },
-		{
-          "type": "item",
-          "name": "minecraft:skull",
-          "weight": 1,
-          "functions": [
-            {
-              "function": "enchant_randomly",
-              "enchantments": [
-                "vanishing_curse"
-              ]
-            },
-			{
-              "function": "enchant_randomly",
-              "enchantments": [
-                "binding_curse"
-              ]
-            },
-            {
-              "function": "set_data",
-              "data": 3
-            },
-            {
-              "function": "set_nbt",
-              "tag": "{display:{Name:\"Slime Block\"},SkullOwner:{Id:\"ba891286-acc2-4583-a596-7fa90743e30e\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTBlNjVlNmU1MTEzYTUxODdkYWQ0NmRmYWQzZDNiZjg1ZThlZjgwN2Y4MmFhYzIyOGE1OWM0YTk1ZDZmNmEifX19\"}]}}}"
-            }
-          ]
-        }
-      ]
-    }
-  ]
+  "pools": [{
+    "rolls": 1,
+    "entries": [{
+        "type": "item",
+        "name": "minecraft:skull",
+        "weight": 9,
+        "functions": [{
+            "function": "enchant_randomly",
+            "enchantments": [
+              "vanishing_curse"
+            ]
+          },
+          {
+            "function": "enchant_randomly",
+            "enchantments": [
+              "binding_curse"
+            ]
+          },
+          {
+            "function": "set_data",
+            "data": 3
+          },
+          {
+            "function": "set_nbt",
+            "tag": "{display:{Name:\"Slime Ball\"},SkullOwner:{Id:\"d9316bb7-755b-4141-a4c9-c6958d9047f6\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDkzNGE5ZjVhYjE3ODlhN2Q4ZGQ5NmQzMjQ5M2NkYWNmZjU3N2Q4YzgxZTdiMjM5MTdkZmYyZTMyYmQwYmMxMCJ9fX0=\"}]}}}"
+          }
+        ]
+      },
+      {
+        "type": "item",
+        "name": "minecraft:skull",
+        "weight": 1,
+        "functions": [{
+            "function": "enchant_randomly",
+            "enchantments": [
+              "vanishing_curse"
+            ]
+          },
+          {
+            "function": "enchant_randomly",
+            "enchantments": [
+              "binding_curse"
+            ]
+          },
+          {
+            "function": "set_data",
+            "data": 3
+          },
+          {
+            "function": "set_nbt",
+            "tag": "{display:{Name:\"Slime Block\"},SkullOwner:{Id:\"ba891286-acc2-4583-a596-7fa90743e30e\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTBlNjVlNmU1MTEzYTUxODdkYWQ0NmRmYWQzZDNiZjg1ZThlZjgwN2Y4MmFhYzIyOGE1OWM0YTk1ZDZmNmEifX19\"}]}}}"
+          }
+        ]
+      }
+    ]
+  }]
 }

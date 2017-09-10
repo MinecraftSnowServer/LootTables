@@ -1,84 +1,63 @@
 {
-  "pools": [
+  "pools": [{
+      "rolls": 1,
+      "entries": [{
+        "type": "loot_table",
+        "name": "Labyrinth_Forest:heads/plank",
+        "weight": 1,
+        "conditions": [{
+          "condition": "random_chance",
+          "chance": 0.8
+        }]
+      }]
+    },
     {
       "rolls": 1,
-      "entries": [
-        {
-          "type": "loot_table",
-          "name": "Labyrinth_Forest:heads/plank",
-          "weight": 1,      
-		  "conditions": [  
-				{  
-                    "condition": "random_chance", 
-                    "chance": 0.8 
-                }
-                    ]
-		}
-				]
+      "entries": [{
+        "type": "loot_table",
+        "name": "Labyrinth_Forest:heads/log_side",
+        "weight": 1,
+        "conditions": [{
+          "condition": "random_chance",
+          "chance": 0.3
+        }]
+      }]
     },
-	{
+    {
       "rolls": 1,
-      "entries": [
-		{
-          "type": "loot_table",
-          "name": "Labyrinth_Forest:heads/log_side",
-          "weight": 1,     
-		  "conditions": [  
-				{  
-                    "condition": "random_chance", 
-                    "chance": 0.3 
-                }
-                    ]
-		}   
-				]		
+      "entries": [{
+        "type": "loot_table",
+        "name": "Labyrinth_Forest:heads/log_top",
+        "weight": 1,
+        "conditions": [{
+          "condition": "random_chance",
+          "chance": 0.3
+        }]
+      }]
     },
-	{
+    {
       "rolls": 1,
-      "entries": [
-		{
-          "type": "loot_table",
-          "name": "Labyrinth_Forest:heads/log_top",
-          "weight": 1,     
-		  "conditions": [  
-				{  
-                    "condition": "random_chance", 
-                    "chance": 0.3 
-                }
-                    ]
-		}   
-				]		
+      "entries": [{
+        "type": "loot_table",
+        "name": "Labyrinth_Forest:heads/leaves",
+        "weight": 1,
+        "conditions": [{
+          "condition": "random_chance",
+          "chance": 0.1
+        }]
+      }]
     },
-	{
+    {
       "rolls": 1,
-      "entries": [
-		{
-          "type": "loot_table",
-          "name": "Labyrinth_Forest:heads/leaves",
-          "weight": 1,     
-		  "conditions": [  
-				{  
-                    "condition": "random_chance", 
-                    "chance": 0.1 
-                }
-                    ]
-		}   
-				]		
-    },
-	{
-      "rolls": 1,
-      "entries": [
-		{
-          "type": "loot_table",
-          "name": "Labyrinth_Forest:heads/apple",
-          "weight": 1,     
-		  "conditions": [  
-				{  
-                    "condition": "random_chance", 
-                    "chance": 0.02 
-                }
-                    ]
-		}   
-				]		
+      "entries": [{
+        "type": "loot_table",
+        "name": "Labyrinth_Forest:heads/apple",
+        "weight": 1,
+        "conditions": [{
+          "condition": "random_chance",
+          "chance": 0.02
+        }]
+      }]
     }
-           ]
+  ]
 }

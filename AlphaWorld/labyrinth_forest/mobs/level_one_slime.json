@@ -1,24 +1,19 @@
 {
-  "pools": [
-    {
-      "rolls": 1,
-      "entries": [
-        {
-		  "type": "empty",
-		  "weight": 2
-		},
-		{
-          "type": "loot_table",
-          "name": "Labyrinth_Forest:heads/_slime",
-          "weight": 1,      
-		  "conditions": [  
-				{  
-                    "condition": "killed_by_player",
-                    "inverse": false 
-                }
-						]
-		}
-				]
-    }
-           ]
+  "pools": [{
+    "rolls": 1,
+    "entries": [{
+        "type": "empty",
+        "weight": 2
+      },
+      {
+        "type": "loot_table",
+        "name": "Labyrinth_Forest:heads/_slime",
+        "weight": 1,
+        "conditions": [{
+          "condition": "killed_by_player",
+          "inverse": false
+        }]
+      }
+    ]
+  }]
 }
